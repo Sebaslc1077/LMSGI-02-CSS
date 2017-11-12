@@ -5,14 +5,14 @@ body
 
 h1.o 
 {
-display:inline;
+display:table;
 color:yellow;
 background-color:black;
 }
 
 h2.o 
 {
-display:inline;
+display:table;
 color:yellow;
 background-color:black;
 }
