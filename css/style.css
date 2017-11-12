@@ -1,0 +1,66 @@
+body
+{
+  background-color: grey;
+}
+
+h1.o {color:yellow;background-color:black}
+h2.o {color:yellow;background-color:black}
+
+table,th,td
+{
+  border:2px solid black;
+  font-family:Arial;
+  font-size: 16px;
+}
+
+table
+{
+  border-collapse:collapse;
+  width:20%;
+}
+
+td
+{
+  height:30px;
+}
+
+table#test tr:nth-child(even)
+{
+  background: #155263;
+}
+
+table#test tr:nth-child(odd) 
+{
+  background-color: #FFC93C;
+}
+
+table#test th 
+{
+  background-color: #FF6F3C;
+  color: black;
+}
+
+.brown
+{
+  color: brown;
+}
+.green
+{
+  color: green;
+}
+
+.red
+{
+  color: red;
+}
+
+h1
+{
+font-family:Arial;
+font-size: 30px;
+}
+p,h2,ul
+{
+font-family:Arial;
+font-size: 18px;
+}
