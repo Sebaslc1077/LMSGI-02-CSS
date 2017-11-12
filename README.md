@@ -2,6 +2,7 @@
 https://rawgit.com/Sebaslc1077/LMSGI-02-CSS/master/index.html
 
 **Paleta de colores usada:**
+
 http://colorhunt.co/c/93362
 
 **Fuentes consultadas**
@@ -20,6 +21,7 @@ http://www.corelangs.com/css/table/tablecolor.html
 
 
 **Herramientas utilizadas**
+
 https://codepen.io/
 http://jigsaw.w3.org/css-validator/
 https://validator.w3.org/
