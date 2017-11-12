@@ -35,5 +35,3 @@ Inicialmente iba a usar una imagen de fondo, pero dificultaba mucho la lectura d
 Inicialmente el background de los headings, cubria toda la linea de texto, lo cual no quedaba muy bien, por lo que al aplicar la siguiente linea de codigo en el CSS a cada respectivo heading **display:inline;** conseguimos limitar el background al texto en cuestión, sin necesidad de utilizar span (el background es mas grueso y desentona).
 
 Fuente: https://stackoverflow.com/questions/14310154/how-do-i-set-background-color-of-text-only-in-css
-
-
