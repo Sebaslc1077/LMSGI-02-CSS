@@ -3,8 +3,19 @@ body
   background-color: grey;
 }
 
-h1.o {color:yellow;background-color:black}
-h2.o {color:yellow;background-color:black}
+h1.o 
+{
+display:inline;
+color:yellow;
+background-color:black;
+}
+
+h2.o 
+{
+display:inline;
+color:yellow;
+background-color:black;
+}
 
 table,th,td
 {
