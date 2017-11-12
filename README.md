@@ -23,5 +23,7 @@ http://www.corelangs.com/css/table/tablecolor.html
 **Herramientas utilizadas**
 
 https://codepen.io/
+
 http://jigsaw.w3.org/css-validator/
+
 https://validator.w3.org/
